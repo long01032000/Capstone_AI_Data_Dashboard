@@ -1,0 +1,71 @@
+{
+  "page_title": "📊 Bảng điều khiển Dữ liệu AI",
+
+  "sidebar_settings": "Cài đặt",
+  "sidebar_upload": "Tải tệp",
+  "language_label": "Ngôn ngữ",
+
+  "upload_file": "Tải tệp",
+
+  "warn_not_clean": "⚠️ Dữ liệu chưa được làm sạch. Kết quả có thể kém chính xác. Vào tab Tải tệp và bấm “Làm sạch dữ liệu tự động”.",
+  "no_data_msg": "Chưa có dữ liệu. Vui lòng tải tệp ở tab Tải tệp.",
+
+  "tab_upload": "Tải tệp",
+  "tab_manual": "Phân tích thủ công",
+  "tab_ai": "Phân tích AI",
+  "tab_reports": "Báo cáo",
+
+  "file_loaded": "Đã tải tệp.",
+  "data_preview": "Xem nhanh dữ liệu",
+
+  "auto_clean": "Làm sạch dữ liệu tự động",
+  "loading": "Đang xử lý...",
+  "data_cleaned": "Làm sạch dữ liệu thành công!",
+
+  "no_cols_msg": "Cần ít nhất 1 cột phân loại và 1 cột số.",
+  "choose_category": "Chọn cột phân loại",
+  "choose_numeric": "Chọn cột số",
+
+  "agg_sum": "Tổng",
+  "agg_mean": "Trung bình",
+  "agg_count": "Đếm",
+  "agg_min": "Nhỏ nhất",
+  "agg_max": "Lớn nhất",
+  "aggregation": "Hàm tổng hợp",
+
+  "chart_line": "Biểu đồ đường",
+  "chart_bar": "Biểu đồ cột",
+  "chart_scatter": "Biểu đồ phân tán",
+  "chart_pie": "Biểu đồ tròn",
+  "chart_type": "Loại biểu đồ",
+
+  "plot_graph": "Vẽ biểu đồ",
+  "analysis_ready": "Đã sẵn sàng. Vui lòng mở tab Báo cáo để xem chi tiết.",
+
+  "run_ai_auto": "Chạy phân tích AI tự động",
+  "ask_ai": "Hỏi AI về dữ liệu của bạn",
+  "send_question": "Gửi câu hỏi",
+  "ai_answer": "Trả lời của AI",
+
+  "no_reports_yet": "Chưa có báo cáo. Hãy tạo biểu đồ ở các tab Thủ công/AI.",
+
+  "manual_reports_section": "🛠 Báo cáo thủ công",
+  "no_manual": "Chưa có biểu đồ thủ công.",
+  "loading_manual_chart_fmt": "⏳ Đang tải biểu đồ thủ công {i}...",
+  "manual_chart_caption_fmt": "Biểu đồ thủ công {i}",
+  "insight": "Nhận định",
+  "remove_manual_chart_fmt": "🗑 Xoá biểu đồ thủ công {i}",
+
+  "ai_reports_section": "🤖 Báo cáo AI",
+  "no_ai": "Chưa có biểu đồ AI.",
+  "loading_ai_chart_fmt": "⏳ Đang tải biểu đồ AI {i}...",
+  "ai_chart_caption_fmt": "Biểu đồ AI {i}",
+  "remove_ai_chart_fmt": "🗑 Xoá biểu đồ AI {i}",
+
+  "export_all": "📥 Xuất tất cả báo cáo",
+  "creating_combined": "⏳ Đang tạo báo cáo Excel tổng hợp...",
+  "export_success": "Xuất file thành công. Vui lòng tải xuống bên dưới.",
+  "download_all": "Tải xuống tất cả báo cáo",
+  "reset_workspace": "Đặt lại workspace (xoá dữ liệu & báo cáo)",
+  "workspace_cleared": "Đã xoá workspace."
+}

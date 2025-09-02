@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+Pillow
+python-dotenv
+google-generativeai
+langchain
+faiss-cpu
+xlsxwriter
+openpyxl

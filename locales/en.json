@@ -1,0 +1,71 @@
+{
+  "page_title": "📊 Data AI Dashboard",
+
+  "sidebar_settings": "Settings",
+  "sidebar_upload": "Upload",
+  "language_label": "Language",
+
+  "upload_file": "Upload file",
+
+  "warn_not_clean": "⚠️ Your data hasn't been auto-cleaned yet. Results may be less reliable. Go to the Upload tab and click “Auto clean data”.",
+  "no_data_msg": "No data yet. Please upload a file in the Upload tab.",
+
+  "tab_upload": "Upload",
+  "tab_manual": "Manual Analysis",
+  "tab_ai": "AI Analysis",
+  "tab_reports": "Reports",
+
+  "file_loaded": "File loaded.",
+  "data_preview": "Data preview",
+
+  "auto_clean": "Auto clean data",
+  "loading": "Loading...",
+  "data_cleaned": "Data cleaned successfully!",
+
+  "no_cols_msg": "Need at least one categorical and one numeric column.",
+  "choose_category": "Choose a category column",
+  "choose_numeric": "Choose a numeric column",
+
+  "agg_sum": "Sum",
+  "agg_mean": "Mean",
+  "agg_count": "Count",
+  "agg_min": "Min",
+  "agg_max": "Max",
+  "aggregation": "Aggregation",
+
+  "chart_line": "Line Chart",
+  "chart_bar": "Bar Chart",
+  "chart_scatter": "Scatter Plot",
+  "chart_pie": "Pie Chart",
+  "chart_type": "Chart Type",
+
+  "plot_graph": "Plot chart",
+  "analysis_ready": "Analysis ready. Open the Report page for full details.",
+
+  "run_ai_auto": "Run AI Auto Analysis",
+  "ask_ai": "Ask AI about your data",
+  "send_question": "Send Question",
+  "ai_answer": "AI Answer",
+
+  "no_reports_yet": "No reports yet. Create charts in the Manual/AI tabs.",
+
+  "manual_reports_section": "🛠 Manual Reports",
+  "no_manual": "No manual charts.",
+  "loading_manual_chart_fmt": "⏳ Loading Manual Chart {i}...",
+  "manual_chart_caption_fmt": "Manual Chart {i}",
+  "insight": "Insight",
+  "remove_manual_chart_fmt": "🗑 Remove Manual Chart {i}",
+
+  "ai_reports_section": "🤖 AI Reports",
+  "no_ai": "No AI charts.",
+  "loading_ai_chart_fmt": "⏳ Loading AI Chart {i}...",
+  "ai_chart_caption_fmt": "AI Chart {i}",
+  "remove_ai_chart_fmt": "🗑 Remove AI Chart {i}",
+
+  "export_all": "📥 Export All Reports",
+  "creating_combined": "⏳ Creating combined Excel report...",
+  "export_success": "Export success. Please download your file below.",
+  "download_all": "Download All Reports",
+  "reset_workspace": "Reset workspace (clear data & reports)",
+  "workspace_cleared": "Workspace cleared."
+}
