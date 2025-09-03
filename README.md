@@ -79,7 +79,6 @@ Capstone_AI_Data_Dashboard/
 ---
 
 ## 🌐 i18n (EN/VI)
-- `helpers/i18n.py` hợp nhất `en.json` (base) + `vi.json` (overlay) → **dict read-only**.
 - Dùng `trans(locale, "key", "fallback")` trong UI để an toàn khi thiếu key.
 
 <details>
@@ -222,7 +221,6 @@ Capstone_AI_Data_Dashboard/
 
 ## 🧭 Troubleshooting
 - **NameError: locale** → gọi `locale = load_language(lang)` trước `trans(...)`.
-- **Streamlit version cũ** → lỗi `use_container_width/use_column_width`: bỏ tham số hoặc nâng version.
 - **AI sai ngôn ngữ** → kiểm tra `lang` truyền vào các hàm trong `ai_insight.py`.
 - **Reset state khi browse** → app dùng `_file_id=(name,size)` để chỉ reset khi file thực sự đổi.
 
