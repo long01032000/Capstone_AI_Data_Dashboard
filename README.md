@@ -3,11 +3,6 @@
 Upload → Auto-clean → Manual/AI Analysis → Charts → Excel Export → i18n (EN/VI).  
 Generate quick insights from charts via **Gemini**. Built with **Streamlit**, **pandas**, **Matplotlib**.
 
-<p align="center">
-  <!-- Optional: replace with your image -->
-  <img src="./Untitled.png" alt="Dashboard screenshot" width="800"/>
-</p>
-
 ---
 
 ## ✨ Features
