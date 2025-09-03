@@ -237,4 +237,4 @@ Capstone_AI_Data_Dashboard/
 ---
 
 ## 📝 License
-MIT © 2025
+Luci © 2025
