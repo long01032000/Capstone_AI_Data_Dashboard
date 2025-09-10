@@ -101,7 +101,7 @@ def ai_auto_analysis(data: pd.DataFrame, lang: str = "en"):
     for a one-line actionable insight derived from each chart image.
     """
     reports = []
-    folder_path = "./charts"
+    folder_path = get_chart_dir()
     os.makedirs(folder_path, exist_ok=True)
     model = _build_model(lang)
 
