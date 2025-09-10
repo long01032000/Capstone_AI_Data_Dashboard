@@ -10,7 +10,7 @@ from helpers.charts import plot_chart, remove_chart
 from helpers.excel_report import generate_excel_report
 from helpers.i18n import load_language, trans
 from helpers.ai_insight import ai_auto_analysis, ai_answer_question, generate_report_from_chart
-
+from helpers.paths import get_chart_dir
 # ============== UI CONFIG ==============
 st.set_page_config(page_title="📊 Data AI Dashboard", layout="wide")
 

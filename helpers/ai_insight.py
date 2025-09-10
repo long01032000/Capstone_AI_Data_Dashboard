@@ -8,6 +8,7 @@ from typing import Optional, Dict, Any
 import pandas as pd
 from PIL import Image
 import google.generativeai as genai
+from .paths import get_chart_dir
 
 from dotenv import load_dotenv
 from .charts import plot_chart
@@ -59,7 +60,7 @@ def _build_profile(df: pd.DataFrame, max_uniques: int = 12, sample_rows: int = 3
         prof["sample_rows"] = []
     return prof
 
-# ===== Chart → short insight (used in Manual Analysis) =====
+# ===== Chart → short insight =====
 def _resolve_chart_path(folder_path: str, chart_path_or_name: str) -> Optional[str]:
     candidates = []
     if isinstance(chart_path_or_name, str):
